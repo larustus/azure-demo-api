@@ -1,0 +1,12 @@
+.gradle/
+build/
+comments.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+*.class
+out/
+
+.idea/
+.vscode/
